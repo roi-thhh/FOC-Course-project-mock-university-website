@@ -1,6 +1,5 @@
 # Napster University Website
 
-![University Header](https://images.unsplash.com/photo-1581090700227-1e8e08fca0e6)
 
 A modern, responsive website for Napster University featuring a clean dark theme with student dashboard functionality.
 
